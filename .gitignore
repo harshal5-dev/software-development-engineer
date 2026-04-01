@@ -1,0 +1,32 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+.vscode/
+
+# Java compiled output
+*.class
+out/
+bin/
+
+# Build tool output (multi-module friendly)
+target/
+build/
+.gradle/
+
+# Logs
+*.log
+
+# Package artifacts
+*.jar
+*.war
+*.ear
+*.nar
+*.zip
+*.tar.gz
+*.rar
