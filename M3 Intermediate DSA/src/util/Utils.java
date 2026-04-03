@@ -10,4 +10,11 @@ public final class Utils {
     }
     System.out.println();
   }
+
+  public static void printArray(long[] arr) {
+    for (long i : arr) {
+      System.out.print(i + " ");
+    }
+    System.out.println();
+  }
 }
