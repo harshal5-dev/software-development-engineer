@@ -17,4 +17,10 @@ public final class Utils {
     }
     System.out.println();
   }
+
+  public static void printArray(int[][] arr) {
+    for (int[] i : arr) {
+      printArray(i);
+    }
+  }
 }
