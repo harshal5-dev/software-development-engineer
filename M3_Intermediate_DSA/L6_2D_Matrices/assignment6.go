@@ -1,6 +1,6 @@
 package main
 
-func solve(A [][]int) [][]int {
+func SolveA6(A [][]int) [][]int {
 	N := len(A)
 	M := len(A[0])
 
